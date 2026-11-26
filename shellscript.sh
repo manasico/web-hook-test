@@ -1,2 +1,2 @@
 echo "hello github"
-hi 
+echo "github-webhook"
